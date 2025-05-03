@@ -35,3 +35,5 @@ Our testing data is one book split into multiple documents of 10 sentences each.
 
 ## Conclusion
 We found that the most accurate method is a linear svm model with words per sentence and bag of words on pronouns, determiners, and punctuation as the features. This model without bag of words is not at all accurate, possibly because men and women generally use certain words with different frequencies. If we had more time, we would try using the same features on a KNN model.
+
+Blogpost written by Sarah Conell, Assistant Director of the Women Writer's Project on this: https://wwp.northeastern.edu/blog/machine-learning/

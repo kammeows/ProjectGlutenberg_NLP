@@ -1,5 +1,7 @@
 # ProjectGlutenberg_NLP
 
+Dataset downloaded from: https://www.gutenberg.org
+
 ## Features
 Our features for this model were a bag of words for the pronouns, determiners, and punctuation marks, as well as the average number of words per sentence.
 
